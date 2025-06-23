@@ -1,0 +1,1 @@
+# snnapcart-account-deletion
